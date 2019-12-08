@@ -8,8 +8,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
-        "HelloWord.ts"
+        "scratchmaker.ts"
     ],
     "testFiles": [
         "test.ts"
