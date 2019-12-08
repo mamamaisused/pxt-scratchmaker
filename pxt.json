@@ -1,0 +1,19 @@
+{
+    "name": "pxt-scratchmaker",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:82a94eec-bace-4b59-f3d1-a5634f494e38"
+}
