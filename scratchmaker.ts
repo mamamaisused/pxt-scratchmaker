@@ -6,7 +6,7 @@ namespace scratchmaker{
 
     //% blockId=scratchMakerHelloWorld block="HelloWorld"
     export function helloWorld() {
-
+        basic.showString("Hello!");
     }
 
 }
